@@ -1,0 +1,21 @@
+# Data (never commit the dataset)
+src/data/
+*.csv
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
